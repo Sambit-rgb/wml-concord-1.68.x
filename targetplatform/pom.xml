@@ -7,7 +7,7 @@
         <artifactId>takari</artifactId>
         <groupId>io.takari</groupId>
         <version>27</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>com.walmartlabs.concord</groupId>
@@ -95,7 +95,7 @@
         <shiro.version>1.5.1</shiro.version>
         <siesta.version>2.3.2</siesta.version>
         <sisu.version>0.3.4</sisu.version>
-        <slf4j.version>1.7.25</slf4j.version>
+        <slf4j.version>1.7.36</slf4j.version>
         <sshd.version>1.6.0</sshd.version>
         <swagger.version>1.5.20</swagger.version>
         <sysoutslf4j.version>1.0.2</sysoutslf4j.version>
